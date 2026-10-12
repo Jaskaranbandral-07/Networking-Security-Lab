@@ -5,14 +5,14 @@
 ![Domain](https://img.shields.io/badge/Domain-Network%20Security-red?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20|%20Windows-blue?style=for-the-badge)
 ![Tools](https://img.shields.io/badge/Tools-Python%20|%20OpenSSL%20|%20Wireshark-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Lab%20Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT%20%7C%20CC--BY--NC%204.0-purple?style=for-the-badge)
 
 ---
 
 ## 📋 Overview
 
-This repository documents **6 structured network security laboratory experiments** demonstrating fundamental and applied cryptographic principles, network protocol security, and packet-level traffic dissection. Each experiment includes complete implementations, step-by-step procedures, execution outputs, and detailed architectural walkthroughs.
+This repository documents **6 structured academic laboratory experiments** performed for the **Network Security Laboratory** at the **Model Institute of Engineering and Technology (MIET)**. It demonstrates fundamental and applied cryptographic principles, authentication mechanisms, Public Key Infrastructure (PKI), and packet-level network traffic analysis. Each experiment includes source code implementations, step-by-step procedures, execution outputs, and detailed architectural walkthroughs.
 
 ### 🧰 Tools & Technologies
 - **Python 3.x** (`hashlib`, `hmac`, `secrets`, `time`)
@@ -69,7 +69,7 @@ This repository documents **6 structured network security laboratory experiments
 # Clone this repository
 git clone https://github.com/Jaskaranbandral-07/Networking-Security-Lab.git
 
-# Navigate into the project
+# Navigate into the lab directory
 cd Networking-Security-Lab
 ```
 
@@ -140,15 +140,26 @@ All experiments include styled QR codes for rapid mobile access and submission. 
 
 ---
 
+## 🎓 Academic Notice & Citation
+
+> **Academic Coursework:** This repository serves as a coursework record and educational reference for the Network Security Laboratory at **Model Institute of Engineering and Technology (MIET)**.
+>
+> **For Students & Researchers:** You are welcome to reference, study, and reproduce these experiments on your own machine. Please uphold academic integrity and adhere to your institution's honor code by understanding and performing the experiments independently rather than copying verbatim.
+
+---
+
 ## ⚠️ Disclaimer
 
 > **Educational Use Only:** All scripts, configurations, and packet capture walkthroughs provided in this repository are strictly for academic and defensive educational purposes. Unauthorized interception, decryption, or tampering of network communications on systems without explicit permission is illegal and unethical.
 
 ---
 
-## 📜 License
+## 📜 Licensing & Usage
 
-This project is licensed under the [MIT License](LICENSE) - feel free to use and adapt it for learning.
+This repository uses dual licensing to distinguish practical source code from educational documentation:
+
+- **Source Code (`.py`, `.sh`):** Licensed under the [MIT License](LICENSE). You are granted full permission to run, test, modify, and learn from the code implementations.
+- **Lab Documentation & Materials (`README.md`, writeups, packet captures, diagrams):** Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) License. You may freely read, reference, and share the material for non-commercial educational purposes with appropriate attribution.
 
 ---
 
